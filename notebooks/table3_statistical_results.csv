@@ -1,0 +1,5 @@
+Research Question,Test,Statistic,p-value,Effect Size,Result
+RQ1: Do explanations increase trust?,Paired t-test,t(19) = 19.390,0.000000,Cohen's d = 4.448,✓ Supported
+RQ2: Do explanations increase selection?,McNemar's test,χ²(1) = 60.357,0.000000,OR = 34.00,✓ Supported
+RQ3a: Do types differ in trust?,Friedman test,χ²(2) = 2.907,0.233790,Kendall's W = 0.073,✗ Not Supported
+RQ3b: Do types differ in selection?,Chi-square test,χ²(2) = 3.803,0.149332,Cramér's V = 0.178,✗ Not Supported

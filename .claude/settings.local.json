@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jupyter --version)",
+      "Bash(jupyter nbconvert *)"
+    ]
+  }
+}
