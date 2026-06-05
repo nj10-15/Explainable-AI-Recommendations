@@ -1,7 +1,5 @@
 # XAI Study – Explainable AI Movie Recommender
 
-**Course:** Designing Intelligent Systems (IS 596) | Group 02 | UIUC
-
 > Do users trust AI recommendations more when explanations are provided?
 
 ---
